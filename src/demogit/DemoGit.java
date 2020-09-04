@@ -6,6 +6,9 @@ public class DemoGit {
 // Hello tung dep zai
     }
     // comment 2
+//Hello tung
+//alb
+
     // alo
     // alo
 }
