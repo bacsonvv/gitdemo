@@ -5,4 +5,5 @@ public class DemoGit {
         // comment from Son
 // Hello tung dep zai
     }
+    // comment 2
 }
